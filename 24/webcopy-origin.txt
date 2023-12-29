@@ -1,0 +1,460 @@
+Uri: https://booleet.itch.io/static/images/frog-blue.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\static\images\frog-blue.png
+Content Type: image/png
+
+Uri: https://booleet.itch.io/static/images/frog-cyan.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\static\images\frog-cyan.png
+Content Type: image/png
+
+Uri: https://booleet.itch.io/static/images/frog-gold.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\static\images\frog-gold.png
+Content Type: image/png
+
+Uri: https://booleet.itch.io/static/images/frog-red.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\static\images\frog-red.png
+Content Type: image/png
+
+Uri: https://booleet.itch.io/static/images/frog.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\static\images\frog.png
+Content Type: image/png
+
+Uri: https://booleet.itch.io/station-141
+File Name: C:\Downloaded Web Sites\booleet.itch.io\station-141.htm
+Content Type: text/html
+
+Uri: https://booleet.itch.io/station-141/comments
+File Name: C:\Downloaded Web Sites\booleet.itch.io\station-141\comments-3.htm
+Content Type: text/html
+
+Uri: https://booleet.itch.io/station-141/comments?after=0
+File Name: C:\Downloaded Web Sites\booleet.itch.io\station-141\comments-1.htm
+Content Type: text/html
+
+Uri: https://booleet.itch.io/station-141/comments?after=3
+File Name: C:\Downloaded Web Sites\booleet.itch.io\station-141\comments-2.htm
+Content Type: text/html
+
+Uri: https://booleet.itch.io/station-141/comments?after=40
+File Name: C:\Downloaded Web Sites\booleet.itch.io\station-141\comments-4.htm
+Content Type: text/html
+
+Uri: https://booleet.itch.io/station-141/comments?before=4
+File Name: C:\Downloaded Web Sites\booleet.itch.io\station-141\comments.htm
+Content Type: text/html
+
+Uri: https://booleet.itch.io/station-141/comments?before=41
+File Name: C:\Downloaded Web Sites\booleet.itch.io\station-141\comments-5.htm
+Content Type: text/html
+
+Uri: https://booleet.itch.io/station-141/devlog
+File Name: C:\Downloaded Web Sites\booleet.itch.io\station-141\devlog.htm
+Content Type: text/html
+
+Uri: https://booleet.itch.io/station-141/devlog.rss
+File Name: C:\Downloaded Web Sites\booleet.itch.io\station-141\devlog.rss
+Content Type: application/xml
+
+Uri: https://booleet.itch.io/station-141/devlog/254182/a-reskinned-android-version-called-foundry-141-is-now-available
+File Name: C:\Downloaded Web Sites\booleet.itch.io\station-141\devlog\254182\a-reskinned-android-version-called-foundry-141-is-now-available.htm
+Content Type: text/html
+
+Uri: https://booleet.itch.io/station-141/devlog/269463/new-game-yo-mansion-warrior
+File Name: C:\Downloaded Web Sites\booleet.itch.io\station-141\devlog\269463\new-game-yo-mansion-warrior.htm
+Content Type: text/html
+
+Uri: https://i.ytimg.com/vi/Q5FmGcZiCZk/hqdefault.jpg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\vi\Q5FmGcZiCZk\hqdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ0LnBuZw==/347x500/zYsgmJ.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ0LnBuZw==\347x500\zYsgmJ.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ0LnBuZw==/794x1000/i2LbcB.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ0LnBuZw==\794x1000\i2LbcB.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ0LnBuZw==/original/zx6bRe.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ0LnBuZw==\original\zx6bRe.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ1LnBuZw==/347x500/7L6x9l.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ1LnBuZw==\347x500\7L6x9l.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ1LnBuZw==/794x1000/iknpVh.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ1LnBuZw==\794x1000\iknpVh.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ1LnBuZw==/original/jhSVSl.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ1LnBuZw==\original\jhSVSl.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ2LnBuZw==/347x500/HXP%2FWS.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ2LnBuZw==\347x500\HXPWS.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ2LnBuZw==/794x1000/n89reB.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ2LnBuZw==\794x1000\n89reB.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ2LnBuZw==/original/g7Lf8W.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ2LnBuZw==\original\g7Lf8W.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ3LnBuZw==/347x500/8YPm06.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ3LnBuZw==\347x500\8YPm06.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ3LnBuZw==/794x1000/gB8e1P.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ3LnBuZw==\794x1000\gB8e1P.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQ3LnBuZw==/original/NGjOcP.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQ3LnBuZw==\original\NGjOcP.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQyLnBuZw==/347x500/gYAE32.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQyLnBuZw==\347x500\gYAE32.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQyLnBuZw==/794x1000/xGXFqY.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQyLnBuZw==\794x1000\xGXFqY.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQyLnBuZw==/original/IZa6z1.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQyLnBuZw==\original\IZa6z1.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQzLnBuZw==/347x500/Ld3cp6.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQzLnBuZw==\347x500\Ld3cp6.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQzLnBuZw==/794x1000/nEcBHn.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQzLnBuZw==\794x1000\nEcBHn.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTAyOTUxMC81ODg5NDQzLnBuZw==/original/BHdWEz.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UvMTAyOTUxMC81ODg5NDQzLnBuZw==\original\BHdWEz.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UyL3VzZXIvMTAxMjk3OC8xMTE2NDQ1LmpwZw==/25x25%23/75%2FRkp.jpg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1hZ2UyL3VzZXIvMTAxMjk3OC8xMTE2NDQ1LmpwZw==\25x25#\75Rkp.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1nLzEwMDMzODQyLmpwZw==/25x25%23/tB2fOv.jpg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzEwMDMzODQyLmpwZw==\25x25#\tB2fOv.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1nLzEwNjUzODYyLnBuZw==/25x25%23/oPdZVh.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzEwNjUzODYyLnBuZw==\25x25#\oPdZVh.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzEwODA0NTE2LnBuZw==/25x25%23/7Iy1OH.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzEwODA0NTE2LnBuZw==\25x25#\7Iy1OH.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzEwODcxNzA1LnBuZw==/25x25%23/LaF5%2B2.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzEwODcxNzA1LnBuZw==\25x25#\LaF5+2.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzExNDg0NjAyLmpwZw==/25x25%23/Zqs9Gu.jpg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzExNDg0NjAyLmpwZw==\25x25#\Zqs9Gu.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1nLzg1NjM2OTcuanBn/25x25%23/FEUBQF.jpg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzg1NjM2OTcuanBn\25x25#\FEUBQF.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1nLzg3NjkxNTYuanBlZw==/25x25%23/PNe8wo.jpeg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzg3NjkxNTYuanBlZw==\25x25#\PNe8wo.jpeg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1nLzg4MDkwNzgucG5n/original/5C9r48.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzg4MDkwNzgucG5n\original\5C9r48.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzgwMjA5MjUucG5n/25x25%23/GHRKun.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzgwMjA5MjUucG5n\25x25#\GHRKun.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzgyNTg0MTQuZ2lm/25x25%23/VL4ji6.gif
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzgyNTg0MTQuZ2lm\25x25#\VL4ji6.gif
+Content Type: image/gif
+
+Uri: https://img.itch.zone/aW1nLzgzMjk2NjkucG5n/original/%2Bc5uqp.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzgzMjk2NjkucG5n\original\+c5uqp.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzgzNTI4NDkucG5n/25x25%23/sdGHoM.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzgzNTI4NDkucG5n\25x25#\sdGHoM.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzIwMTY4OTEucG5n/25x25%23/srCghf.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzIwMTY4OTEucG5n\25x25#\srCghf.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzk1ODA2NDgucG5n/25x25%23/ZXN3B4.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzk1ODA2NDgucG5n\25x25#\ZXN3B4.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzk1ODk1NDYucG5n/25x25%23/%2F7xAD7.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzk1ODk1NDYucG5n\25x25#\7xAD7.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzk5MTQ4NzMuanBn/25x25%23/hju5dP.jpg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzk5MTQ4NzMuanBn\25x25#\hju5dP.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1nLzkwMzE1MTYucG5n/25x25%23/t7cUBh.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzkwMzE1MTYucG5n\25x25#\t7cUBh.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzkxNTIyODgucG5n/25x25%23/tafk64.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzkxNTIyODgucG5n\25x25#\tafk64.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzU0MzA0NjkucG5n/25x25%23/o2nhLl.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzU0MzA0NjkucG5n\25x25#\o2nhLl.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzU2ODA5NzcuanBn/25x25%23/j%2FzvwG.jpg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzU2ODA5NzcuanBn\25x25#\jzvwG.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1nLzU4ODk0NjIucG5n/original/JsstEs.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzU4ODk0NjIucG5n\original\JsstEs.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzU4ODk0NjUucG5n/original/zXYWBJ.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzU4ODk0NjUucG5n\original\zXYWBJ.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzU4ODM5NjMucG5n/32x32%23/ziRMYp.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzU4ODM5NjMucG5n\32x32#\ziRMYp.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzU5Njc2MTkucG5n/200x112%23cm/0UHHQk.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzU5Njc2MTkucG5n\200x112#cm\0UHHQk.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzY0MDU4NjQucG5n/200x112%23cm/N7JSvU.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzY0MDU4NjQucG5n\200x112#cm\N7JSvU.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzY0MDU4ODUucG5n/original/LUWhdS.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\aW1nLzY0MDU4ODUucG5n\original\LUWhdS.png
+Content Type: image/png
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D537395183072744%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fv10.0%252Fdialog%252Fshare%253Fhref%253Dhttps%25253A%25252F%25252Fbooleet.itch.io%25252Fstation-141%25252Fdevlog%25252F254182%25252Fa-reskinned-android-version-called-foundry-141-is-now-available%2526quote%253DA%252Breskinned%252BAndroid%252Bversion%252Bcalled%252B%252522Foundry%252B141%252522%252Bis%252Bnow%252Bavailable%252521%252B-%252BStation%252B141%2526client_id%253D537395183072744%2526ret%253Dlogin%26cancel_url%3Dhttps%253A%252F%252Fwww.facebook.com%252Fdialog%252Freturn%252Fclose%253Ferror_code%253D4201%2526error_message%253DUser%252Bcanceled%252Bthe%252BDialog%252Bflow%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\booleet.itch.io\cookie\consent_prompt\index-1.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D537395183072744%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fv10.0%252Fdialog%252Fshare%253Fhref%253Dhttps%25253A%25252F%25252Fbooleet.itch.io%25252Fstation-141%25252Fdevlog%25252F269463%25252Fnew-game-yo-mansion-warrior%2526quote%253DNew%252Bgame%252Byo%252521%252BMansion%252BWarrior%252B-%252BStation%252B141%2526client_id%253D537395183072744%2526ret%253Dlogin%26cancel_url%3Dhttps%253A%252F%252Fwww.facebook.com%252Fdialog%252Freturn%252Fclose%253Ferror_code%253D4201%2526error_message%253DUser%252Bcanceled%252Bthe%252BDialog%252Bflow%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\booleet.itch.io\cookie\consent_prompt\index.htm
+Content Type: application/xhtml+xml
+
+Uri: https://static.itch.io/bundle.min.js?1679470429
+File Name: C:\Downloaded Web Sites\booleet.itch.io\bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/fonts/04b03.eot
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\04b03.eot
+Content Type: application/octet-stream
+
+Uri: https://static.itch.io/fonts/04b03.eot?
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\04b03-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.itch.io/fonts/04b03.ttf
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\04b03.ttf
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/04b03.woff
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\04b03.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/04b03.woff2
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\04b03.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Black.woff
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\Lato-Black.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Black.woff2
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\Lato-Black.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Bold.woff
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\Lato-Bold.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Bold.woff2
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\Lato-Bold.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Italic.woff
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\Lato-Italic.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Italic.woff2
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\Lato-Italic.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Regular.woff
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\Lato-Regular.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Regular.woff2
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\Lato-Regular.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-700.woff
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\lato-v14-latin-700.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-700.woff2
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\lato-v14-latin-700.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-900.woff
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\lato-v14-latin-900.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-900.woff2
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\lato-v14-latin-900.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-italic.woff
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\lato-v14-latin-italic.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-italic.woff2
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\lato-v14-latin-italic.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-regular.woff
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\lato-v14-latin-regular.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-regular.woff2
+File Name: C:\Downloaded Web Sites\booleet.itch.io\fonts\lato-v14-latin-regular.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/game.css?1679470429
+File Name: C:\Downloaded Web Sites\booleet.itch.io\game.css
+Content Type: text/css
+
+Uri: https://static.itch.io/game.min.js?1679470429
+File Name: C:\Downloaded Web Sites\booleet.itch.io\game.min.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/icons/fonts/icomoon.eot?4ibnvg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\icons\fonts\icomoon.eot
+Content Type: application/octet-stream
+
+Uri: https://static.itch.io/icons/fonts/icomoon.svg?4ibnvg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\icons\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/icons/fonts/icomoon.ttf?4ibnvg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\icons\fonts\icomoon.ttf
+Content Type: text/plain
+
+Uri: https://static.itch.io/icons/fonts/icomoon.woff?4ibnvg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\icons\fonts\icomoon.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/images/cc-loader.gif
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\cc-loader.gif
+Content Type: image/gif
+
+Uri: https://static.itch.io/images/itchio-textless-black.svg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\itchio-textless-black.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/itchio-textless-white-halloween.svg?2
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\itchio-textless-white-halloween.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/itchio-textless-white.svg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\itchio-textless-white.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/loader-dark.gif
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\loader-dark.gif
+Content Type: image/gif
+
+Uri: https://static.itch.io/images/loader-huge.gif
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\loader-huge.gif
+Content Type: image/gif
+
+Uri: https://static.itch.io/images/loader.gif
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\loader.gif
+Content Type: image/gif
+
+Uri: https://static.itch.io/images/loading.svg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/logo-black-new.svg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\logo-black-new.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/logo-textless-white-holiday.svg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\logo-textless-white-holiday.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/logo-white-new-halloween.svg?2
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\logo-white-new-halloween.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/logo-white-new.svg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\logo-white-new.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/play_icon.svg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\play_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/popup-tick-left.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\popup-tick-left.png
+Content Type: image/png
+
+Uri: https://static.itch.io/images/popup-tick-right.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\popup-tick-right.png
+Content Type: image/png
+
+Uri: https://static.itch.io/images/snowrepeat.svg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\snowrepeat.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/twitch_logo.svg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\twitch_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/youtube_icon.svg
+File Name: C:\Downloaded Web Sites\booleet.itch.io\images\youtube_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/lib.js?1679470429
+File Name: C:\Downloaded Web Sites\booleet.itch.io\lib.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/lib/farbtastic/marker.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\lib\farbtastic\marker.png
+Content Type: image/png
+
+Uri: https://static.itch.io/lib/farbtastic/mask.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\lib\farbtastic\mask.png
+Content Type: image/png
+
+Uri: https://static.itch.io/lib/farbtastic/wheel.png
+File Name: C:\Downloaded Web Sites\booleet.itch.io\lib\farbtastic\wheel.png
+Content Type: image/png
+
+Uri: https://static.itch.io/lib/jquery.maskMoney.js
+File Name: C:\Downloaded Web Sites\booleet.itch.io\lib\jquery.maskMoney.js
+Content Type: application/x-javascript
+

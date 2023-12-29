@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" media="screen" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="css/default.css" />
+	<link rel="canonical" href="http://plainchess.timwoelfle.de" />
+	<title>New Tab</title>
+	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+</head>
+<body>
+  <div id="header">
+		TO RESET, REFRESH OR GO BACK TO HOME AND COME BACK ON IT
+	</div>
+	<div id="main">
+		<div id="flip">
+
+			<div id="chess">
+				<div id="info">
+					<p id="lastMove"></p>
+					<p id="gameTime"></p>
+					<p id="currentTurn"><span></span><!--<a id="toggleAwareness" title="Toggle 'awareness mode', highlighting how many pieces can access each field (see FAQ).">💡</a>--></p>
+				</div>
+
+				<div id="border">
+					<table>
+						<tr><th></th><td colspan="8" rowspan="8"></td></tr>
+						<tr><th></th></tr>
+						<tr><th></th></tr>
+						<tr><th></th></tr>
+						<tr><th></th></tr>
+						<tr><th></th></tr>
+						<tr><th></th></tr>
+						<tr><th></th></tr>
+						<tr><td></td><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+					</table>
+				</div>
+
+				<table id="board">
+					<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+				</table>
+
+				<ul id="whiteCemetery"></ul>
+				<ul id="blackCemetery"></ul>
+				<div class="promotion"><div></div><ul></ul></div>
+
+				<div class="menu" id="start">
+					<div id="playOffline" class="stripe tone85">
+						<h2><a href="#"><span>♙♟</span>PLAY</a></h2>
+					</div>
+					<div class="thin stripe tone100"></div>
+				</div>
+
+				<div class="menu" id="pause">
+					<div class="thin stripe tone40"></div>
+					<div id="toggleAutoSave" class="stripe tone55">
+						<h2><a href="#" style="letter-spacing: -0.075em"><span>✍</span>Autosave <span>on</span></a></h2>
+					</div>
+					<div id="playOn" class="stripe tone70">
+						<h2><a href="#"><span>✲</span>Play on</a></h2>
+					</div>
+					<div id="quitGame" class="stripe tone85">
+						<h2><a href="#"><span>✗</span>Quit game</a></h2>
+					</div>
+					<div class="thin stripe tone100"></div>
+				</div>
+
+				<div class="menu" id="end">
+					<div class="thin stripe tone70"></div>
+					<div id="playOn" class="stripe tone85">
+						<h2 style="top: 60px"><a href="#">Back to board</a></h2>
+					</div>
+					<div class="stripe tone100" style="z-index: 1; overflow: visible">
+						<h2><span></span><span></span></h2>
+					</div>
+					<div id="quitGame" class="stripe tone85">
+						<h2><a href="#">Start new game</a></h2>
+					</div>
+					<div class="thin stripe tone70"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="js/jquery-3.6.0.min.js"></script>
+	<script src="js/jquery-ui.min.js"></script>
+	<script src="js/game.min.js"></script>
+</body>
+</html>

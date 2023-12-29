@@ -1,0 +1,96 @@
+body {
+  font-size: 12px;
+  background: url;
+  border-style: none;
+  font-family: helvetica, arial, sans-serif;
+}
+.sound {
+  width: 200px;
+  height: 330px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+div.text {
+  background-color: rgba(255, 255, 255, 0.1);
+  width: 50%;
+}
+.download {
+  cursor: pointer;
+}
+.name {
+  text-align: center;
+  font-size: 30px;
+  margin: 20 0 10 0;
+}
+#instants_container {
+  margin: 30px auto 0;
+  text-align: center;
+  border-style: none;
+}
+.instant {
+  position: relative;
+  vertical-align: top;
+  width: 94px;
+  border-style: none;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
+  word-wrap: break-word;
+}
+.small-button {
+  width: 188px;
+  height: 172px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 6px;
+  margin-top: 0px;
+  border-style: none;
+  position: absolute;
+  background: url(../img/button.png) no-repeat;
+  cursor: pointer;
+}
+.small-button:active {
+  background: url(../img/button-pressed.png) no-repeat;
+  cursor: progress;
+}
+.small-button-background {
+  width: 172px;
+  height: 178px;
+  margin-top: 6px;
+  margin-left: 12px;
+  position: absolute;
+}
+.small-button-shadow {
+  width: 188px;
+  height: 178px;
+  margin-bottom: 10px;
+  background: url(../img/button-shadow.png) no-repeat;
+}
+.circle {
+  border-radius: 50%;
+}
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: transparent;
+}
+.flex-container > div {
+  padding: 2px;
+}
+div.control {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: auto;
+  padding: 0px;
+}
+.woah {
+  cursor: pointer;
+  width: auto;
+  height: 100px;
+  font-size: 40px;
+  color: #ffffff;
+  background-color: #000000;
+  border-color: #181818;
+}

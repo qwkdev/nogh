@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/catamaran/v18/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPErd1ak.ttf) format('truetype');
+}
