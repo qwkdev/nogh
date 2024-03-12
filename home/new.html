@@ -1,0 +1,174 @@
+<head>
+	<link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:700,400">
+	<style>
+		.marquee {
+			background-color: #000000;
+			--gap: 1rem;
+			display: flex;
+			overflow: hidden;
+			user-select: none;
+			gap: var(--gap);
+			height: 5vh;
+			line-height: 5.7vh;
+			box-shadow: 0px 0px 1vh 1vh #000000;
+		}
+		.marquee__content {
+			animation: scroll 10s linear infinite;
+			flex-shrink: 0;
+			display: flex;
+			justify-content: space-around;
+			min-width: 100%;
+			font-weight: 700;
+			font-size: 2vh;
+			gap: var(--gap);
+		}
+		@keyframes scroll {
+			from {
+				transform: translateX(0);
+			}
+			to {
+				transform: translateX(calc(-100% - var(--gap)));
+			}
+		}
+		.stktop {
+			z-index: 1;
+			position: fixed;
+			top: 0px;
+			bottom: auto;
+			left: 0px;
+			right: 0px;
+			height: 5vh;
+			display: none;
+		}
+
+		body {
+			margin: 0;
+			background: linear-gradient(135deg, #3FB7FE 0%, #6E00FD 100%);
+			overflow-x: hidden;
+			overflow-y: hidden;
+		}
+		p {
+			font-family: "Montserrat";
+			color: #ffffff;
+			margin: 0;
+		}
+		b { font-weight: 700; }
+
+		.container {
+			margin: 0 20vw;
+		}
+		.grid {
+			display: grid;
+			grid-template-columns: repeat(3, 20vw);
+		}
+		.item {
+			width: 20vw;
+			height: 20vw;
+			border-radius: 1vw;
+			position: relative;
+		}
+		.item-text {
+			position: absolute;
+			width: 20vw;
+			bottom: 0;
+			line-height: 1.5vw;
+			font-size: 1vw;
+			text-align: center;
+			background: #000000aa;
+			border-radius: 0 0 1vw 1vw;
+			font-weight: 700;
+		}
+		.device {
+			height: 100vh;
+			background-color: #000000;
+		}
+		svg {
+			width: 20vh;
+			height: 20vh;
+		}
+		.svg-box {
+			width: 30vh;
+			height: 30vh;
+			border: 0.3vh solid #404042;
+			border-radius: 1vh;
+			background-color: #000000;
+		}
+	</style>
+	<script>
+		function load() {
+			document.getElementById("menu").style.display = "none";
+			document.getElementById("bar").style.display = "flex";
+			document.getElementById("body").style.overflowY = "scroll";
+		};
+		function mobile() {
+			load();
+			var hm = document.getElementsByClassName("hm");
+			for (var i = 0; i < hm.length; i++) {
+				hm[i].style.display = "none";
+			}
+		};
+	</script>
+</head>
+<body id="body">
+	<div id="menu" class="device">
+		<p style="height: 10vh; text-align: center; font-size: 8vh; font-weight: 700; line-height: 10vh; padding-top: 25vh; margin-bottom: 5vh;">What device are you on?</p>
+		<div style="height: 30vh; display: flex; justify-content: center; gap: 5vw;">
+			<button class="svg-box" onclick="load()">
+				<svg style="margin: 2.5vh 5.5vh 0 4.5vh;" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M16 21H19.4C19.9601 21 20.2401 21 20.454 20.891C20.6422 20.7951 20.7951 20.6422 20.891 20.454C21 20.2401 21 19.9601 21 19.4V4.6C21 4.03995 21 3.75992 20.891 3.54601C20.7951 3.35785 20.6422 3.20487 20.454 3.10899C20.2401 3 19.9601 3 19.4 3H13.6C13.0399 3 12.7599 3 12.546 3.10899C12.3578 3.20487 12.2049 3.35785 12.109 3.54601C12 3.75992 12 4.03995 12 4.6V6M10 18V21M7 21H13M6.2 18H13.8C14.9201 18 15.4802 18 15.908 17.782C16.2843 17.5903 16.5903 17.2843 16.782 16.908C17 16.4802 17 15.9201 17 14.8V9.2C17 8.0799 17 7.51984 16.782 7.09202C16.5903 6.71569 16.2843 6.40973 15.908 6.21799C15.4802 6 14.9201 6 13.8 6H6.2C5.0799 6 4.51984 6 4.09202 6.21799C3.71569 6.40973 3.40973 6.71569 3.21799 7.09202C3 7.51984 3 8.07989 3 9.2V14.8C3 15.9201 3 16.4802 3.21799 16.908C3.40973 17.2843 3.71569 17.5903 4.09202 17.782C4.51984 18 5.07989 18 6.2 18Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round"></path></g></svg>
+				<p style="font-weight: 700; font-size: 3vh; text-align: center; line-height: 5vh;">Desktop</p>
+			</button>
+			<button class="svg-box" onclick="mobile()">
+				<svg style="margin: 2.5vh 5vh 0 5vh;" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M12 18H12.01M9.2 21H14.8C15.9201 21 16.4802 21 16.908 20.782C17.2843 20.5903 17.5903 20.2843 17.782 19.908C18 19.4802 18 18.9201 18 17.8V6.2C18 5.0799 18 4.51984 17.782 4.09202C17.5903 3.71569 17.2843 3.40973 16.908 3.21799C16.4802 3 15.9201 3 14.8 3H9.2C8.0799 3 7.51984 3 7.09202 3.21799C6.71569 3.40973 6.40973 3.71569 6.21799 4.09202C6 4.51984 6 5.07989 6 6.2V17.8C6 18.9201 6 19.4802 6.21799 19.908C6.40973 20.2843 6.71569 20.5903 7.09202 20.782C7.51984 21 8.07989 21 9.2 21Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></g></svg>
+				<p style="font-weight: 700; font-size: 3vh; text-align: center; line-height: 5vh;">Mobile</p>
+			</button>
+		</div>
+	</div>
+	<div id="bar" class="stktop marquee">
+		<div class="marquee__content">
+			<p>NOGAMESHERE</p><p>&#10022;</p><p>NOGAMESHERE</p><p>&#10022;</p><p>NOGAMESHERE</p><p>&#10022;</p><p>NOGAMESHERE</p><p>&#10022;</p><p>NOGAMESHERE</p><p>&#10022;</p>
+		</div>
+		<div class="marquee__content" aria-hidden="true">
+			<p>NOGAMESHERE</p><p>&#10022;</p><p>NOGAMESHERE</p><p>&#10022;</p><p>NOGAMESHERE</p><p>&#10022;</p><p>NOGAMESHERE</p><p>&#10022;</p><p>NOGAMESHERE</p><p>&#10022;</p>
+		</div>
+	</div>
+	<div class="container" style="padding: 13vh 0 8vh 0;">
+		<p style="font-size: 3vw; line-height: 4vw; font-weight: 700;">No Games Here V2</p>
+		<p style="font-size: 1vw; line-height: 1.5vw; font-weight: 400;"><b>New update! V2</b><br>A website dedicated to unblocked games<br>We have many features to help hide these games, such as the tab being named, "New Tab"<br>This site is for educational/experimental uses only. Any other uses we do not condone.</p>
+	</div>
+	<div class="container grid">
+		<!-- TODO: ADD ITEM TEXT, ADD hm CLASS TO THOSE THAT NEED IT, ADD NEW GAMES (/test), RE-ORDER, MAKE NEW GAMES WORK (use iframes) -->
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/gd.png?raw=true')" href="https://geometrydash-lite.com"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/21.jpg?raw=true')" href="/nogh/21"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/17.jpg?raw=true')" href="/nogh/17"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/8.jpg?raw=true')" href="/nogh/8"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/23.jpg?raw=true')" href="/nogh/23"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/1.png?raw=true')" href="/nogh/1"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/24.png?raw=true')" href="/nogh/24"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/14.png?raw=true')" href="/nogh/14"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/5.jpeg?raw=true')" href="/nogh/5"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/27.jpg?raw=true')" href="/nogh/27"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/26.jpg?raw=true')" href="/nogh/26"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/25.jpg?raw=true')" href="/nogh/25"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/16.png?raw=true')" href="/nogh/16"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/10.png?raw=true')" href="/nogh/10"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/11.png?raw=true')" href="/nogh/11"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/23.jpg?raw=true')" href="/nogh/23"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/6.png?raw=true')" href="/nogh/6"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/9.png?raw=true')" href="/nogh/9"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/19.png?raw=true')" href="/nogh/19"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/15.jpg?raw=true')" href="/nogh/15"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/13.png?raw=true')" href="/nogh/13"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/22.png?raw=true')" href="/nogh/22"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/12.png?raw=true')" href="/nogh/12"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/3.png?raw=true')" href="/nogh/3"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/18.png?raw=true')" href="/nogh/18"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/2.png?raw=true')" href="/nogh/2"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/7.png?raw=true')" href="/nogh/7"><p class="item-text"></p></a>
+	</div>
+	<div class="container" style="padding: 8vh 0;">
+		<p style="font-size: 3vw; line-height: 4vw; font-weight: 700;">More games coming soon...</p>
+	</div>
+	<div style="background: #000000; height: 7vh; box-shadow: 0px 0px 0.5vh 0.5vh #000000;">
+		<p style="font-weight: 700; font-size: 3vh; line-height: 7vh; text-align: center;">MADE BY <a style='color:#ffffff' href='https://qwkdev.github.io/'>QWK</a></p>
+	</div>
+</body>
