@@ -43,7 +43,7 @@
 
 		body {
 			margin: 0;
-			background: linear-gradient(135deg, #3FB7FE 0%, #6E00FD 100%);
+			background: linear-gradient(135deg, #3FB7FE 0%, #6E00FD 95%);
 			overflow-x: hidden;
 			overflow-y: hidden;
 		}
@@ -66,6 +66,7 @@
 			height: 20vw;
 			border-radius: 1vw;
 			position: relative;
+			background-size: 20vw;
 		}
 		.item-text {
 			position: absolute;
@@ -95,6 +96,9 @@
 		}
 	</style>
 	<script>
+		window.onbeforeunload = () => {
+			window.scrollTo(0, 0);
+		}
 		function load() {
 			document.getElementById("menu").style.display = "none";
 			document.getElementById("bar").style.display = "flex";
@@ -136,34 +140,45 @@
 		<p style="font-size: 1vw; line-height: 1.5vw; font-weight: 400;"><b>New update! V2</b><br>A website dedicated to unblocked games<br>We have many features to help hide these games, such as the tab being named, "New Tab"<br>This site is for educational/experimental uses only. Any other uses we do not condone.</p>
 	</div>
 	<div class="container grid">
-		<!-- TODO: ADD ITEM TEXT, ADD hm CLASS TO THOSE THAT NEED IT, ADD NEW GAMES (/test), RE-ORDER, MAKE NEW GAMES WORK (use iframes) -->
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/gd.png?raw=true')" href="https://geometrydash-lite.com"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/21.jpg?raw=true')" href="/nogh/21"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/17.jpg?raw=true')" href="/nogh/17"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/8.jpg?raw=true')" href="/nogh/8"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/23.jpg?raw=true')" href="/nogh/23"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/1.png?raw=true')" href="/nogh/1"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/24.png?raw=true')" href="/nogh/24"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/14.png?raw=true')" href="/nogh/14"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/5.jpeg?raw=true')" href="/nogh/5"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/27.jpg?raw=true')" href="/nogh/27"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/26.jpg?raw=true')" href="/nogh/26"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/25.jpg?raw=true')" href="/nogh/25"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/16.png?raw=true')" href="/nogh/16"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/10.png?raw=true')" href="/nogh/10"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/11.png?raw=true')" href="/nogh/11"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/23.jpg?raw=true')" href="/nogh/23"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/6.png?raw=true')" href="/nogh/6"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/9.png?raw=true')" href="/nogh/9"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/19.png?raw=true')" href="/nogh/19"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/15.jpg?raw=true')" href="/nogh/15"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/13.png?raw=true')" href="/nogh/13"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/22.png?raw=true')" href="/nogh/22"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/12.png?raw=true')" href="/nogh/12"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/3.png?raw=true')" href="/nogh/3"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/18.png?raw=true')" href="/nogh/18"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/2.png?raw=true')" href="/nogh/2"><p class="item-text"></p></a>
-		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/7.png?raw=true')" href="/nogh/7"><p class="item-text"></p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/4.png?raw=true')"  href="/nogh/4"><p  class="item-text">Geometry Dash Lite</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/21.jpg?raw=true')" href="/nogh/21"><p class="item-text">Subway Surfers</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/17.jpg?raw=true')" href="/nogh/17"><p class="item-text">Slope</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/8.jpg?raw=true')"  href="/nogh/8"><p  class="item-text">Stunt Cars</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/23.jpg?raw=true')" href="/nogh/23"><p class="item-text">Tunnel Rush</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/1.png?raw=true')"  href="/nogh/1"><p  class="item-text">Basketball Stars</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/32.jpg?raw=true')" href="/nogh/32"><p class="item-text">Moto Road Rush</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/28.jpg?raw=true')" href="/nogh/28"><p class="item-text">8 Ball Pool</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/29.jpg?raw=true')" href="/nogh/29"><p class="item-text">Table Tennis</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/24.png?raw=true')" href="/nogh/24"><p class="item-text">Station 141</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/14.png?raw=true')" href="/nogh/14"><p class="item-text">Paper.IO</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/5.jpeg?raw=true')" href="/nogh/5"><p  class="item-text">Cookie Clicker</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/30.jpg?raw=true')" href="/nogh/30"><p class="item-text">The Impossible Quiz</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/31.jpg?raw=true')" href="/nogh/31"><p class="item-text">BitLife</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/33.jpg?raw=true')" href="/nogh/33"><p class="item-text">Slice It All</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/19.png?raw=true')" href="/nogh/19"><p class="item-text">SnowBattle.IO</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/10.png?raw=true')" href="/nogh/10"><p class="item-text">Among Us</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/11.png?raw=true')" href="/nogh/11"><p class="item-text">No Internet Game</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/27.jpg?raw=true')" href="/nogh/27"><p class="item-text">Moto X3M Pool Party</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/26.jpg?raw=true')" href="/nogh/26"><p class="item-text">Moto X3M Halloween</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/25.jpg?raw=true')" href="/nogh/25"><p class="item-text">Moto X3M Christmas</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/22.png?raw=true')" href="/nogh/22"><p class="item-text">Temple Run</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/6.png?raw=true')"  href="/nogh/6"><p  class="item-text">Draw Road</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/9.png?raw=true')"  href="/nogh/9"><p  class="item-text">Tic Tac Toe</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/37.jpg?raw=true')" href="/nogh/37"><p class="item-text">Papa's Donuteria</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/38.jpg?raw=true')" href="/nogh/38"><p class="item-text">Papa's Freezeria</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/40.jpg?raw=true')" href="/nogh/40"><p class="item-text">Papa's Scooperia</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/34.jpg?raw=true')" href="/nogh/34"><p class="item-text">Papa's Bakeria</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/39.jpg?raw=true')" href="/nogh/39"><p class="item-text">Papa's Pizzeria</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/35.jpg?raw=true')" href="/nogh/35"><p class="item-text">Papa's Burgeria</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/36.jpg?raw=true')" href="/nogh/36"><p class="item-text">Papa's Cheeseria</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/13.jpg?raw=true')" href="/nogh/13"><p class="item-text">Papa's Sushiria</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/15.jpg?raw=true')" href="/nogh/15"><p class="item-text">Papa's TacoMia</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/16.png?raw=true')" href="/nogh/16"><p class="item-text">Scrap Cars</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/12.png?raw=true')" href="/nogh/12"><p class="item-text">Craft Mine</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/3.png?raw=true')"  href="/nogh/3"><p  class="item-text">Stack</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/18.png?raw=true')" href="/nogh/18"><p class="item-text">Brick Brake</p></a>
+		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/2.png?raw=true')"  href="/nogh/2"><p  class="item-text">2048</p></a>
+		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/7.png?raw=true')"  href="/nogh/7"><p  class="item-text">Chess</p></a>
 	</div>
 	<div class="container" style="padding: 8vh 0;">
 		<p style="font-size: 3vw; line-height: 4vw; font-weight: 700;">More games coming soon...</p>
