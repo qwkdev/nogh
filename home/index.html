@@ -108,6 +108,7 @@
 	<script>
 		window.onbeforeunload = () => {
 			window.scrollTo(0, 0);
+			document.getElementById("menu").style.display = "block";
 		}
 		function load() {
 			document.getElementById("menu").style.display = "none";
