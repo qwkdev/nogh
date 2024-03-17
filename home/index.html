@@ -115,7 +115,11 @@
 			document.getElementById("bar").style.display = "flex";
 			document.getElementById("body").style.overflowY = "scroll";
 			document.querySelectorAll('.ad').forEach(ad => {
-				ad.style.transform = `scale(${parseFloat(window.innerWidth) * 0.2 / 200})`;
+				console.log(ad.innerHTML);
+				console.log(!ad.innerHTML.includes("Your ad here"));
+				if (!ad.innerHTML.includes("Your ad here")) {
+					ad.style.transform = `scale(${parseFloat(window.innerWidth) * 0.2 / 200})`;
+				}
 			});
 		};
 		function mobile() {
