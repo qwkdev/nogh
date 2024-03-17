@@ -124,9 +124,9 @@
 		};
 		function loadad(n) {
 			var ad = document.getElementById(`ad${n}`);
-			console.log(ad.innerHTML);
-			console.log(!ad.innerHTML.includes("Your ad here"));
-			if (!ad.innerHTML.includes("Your ad here")) {
+			console.log(ad.document.body.innerHTML);
+			console.log(!ad.document.body.innerHTML.includes("Your ad here"));
+			if (!ad.document.body.innerHTML.includes("Your ad here")) {
 				ad.style.transform = `scale(${parseFloat(window.innerWidth) * 0.2 / 200})`;
 			}
 		}
