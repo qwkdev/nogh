@@ -114,6 +114,9 @@
 			document.getElementById("menu").style.display = "none";
 			document.getElementById("bar").style.display = "flex";
 			document.getElementById("body").style.overflowY = "scroll";
+			document.querySelectorAll('.ad').forEach(ad => {
+				ad.style.transform = `scale(${parseFloat(window.innerWidth) * 0.2 / 200})`;
+			});
 		};
 		function mobile() {
 			load();
@@ -122,15 +125,6 @@
 				hm[i].style.display = "none";
 			}
 		};
-		function loadad(n) {
-			var ad = document.getElementById(`ad${n}`);
-			console.log(ad.document.innerHTML);
-			console.log(ad.document.html.body.innerHTML);
-			console.log(!ad.document.body.innerHTML.includes("Your ad here"));
-			if (!ad.document.body.innerHTML.includes("Your ad here")) {
-				ad.style.transform = `scale(${parseFloat(window.innerWidth) * 0.2 / 200})`;
-			}
-		}
 	</script>
 </head>
 <body id="body">
@@ -172,20 +166,20 @@
 		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/28.jpg?raw=true')" href="/nogh/28"><p class="item-text">8 Ball Pool</p></a>
 		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/29.jpg?raw=true')" href="/nogh/29"><p class="item-text">Table Tennis</p></a>
 		
-		<div class="item"><iframe class='ad' id='ad1' data-aa='2311020' src='//ad.a-ads.com/2311020?size=200x200' onload="loadad(1);"></iframe><p class="item-text">AD</p></div>
+		<div class="item"><iframe class='ad' data-aa='2311020' src='//ad.a-ads.com/2311020?size=200x200'></iframe><p class="item-text">AD</p></div>
 		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/24.png?raw=true')" href="/nogh/24"><p class="item-text">Station 141</p></a>
 		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/14.png?raw=true')" href="/nogh/14"><p class="item-text">Paper.IO</p></a>
 			
 		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/5.jpeg?raw=true')" href="/nogh/5"><p  class="item-text">Cookie Clicker</p></a>
 		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/30.jpg?raw=true')" href="/nogh/30"><p class="item-text">The Impossible Quiz</p></a>
-		<div class="item"><iframe class='ad' id='ad2' data-aa='2311020' src='//ad.a-ads.com/2311020?size=200x200' onload="loadad(2);"></iframe><p class="item-text">AD</p></div>
+		<div class="item"><iframe class='ad' data-aa='2311020' src='//ad.a-ads.com/2311020?size=200x200'></iframe><p class="item-text">AD</p></div>
 			
 		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/31.jpg?raw=true')" href="/nogh/31"><p class="item-text">BitLife</p></a>
 		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/33.jpg?raw=true')" href="/nogh/33"><p class="item-text">Slice It All</p></a>
 		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/19.png?raw=true')" href="/nogh/19"><p class="item-text">SnowBattle.IO</p></a>
 			
 		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/10.png?raw=true')" href="/nogh/10"><p class="item-text">Among Us</p></a>
-		<div class="item"><iframe class='ad' id='ad3' data-aa='2311020' src='//ad.a-ads.com/2311020?size=200x200' onload="loadad(3);"></iframe><p class="item-text">AD</p></div>
+		<div class="item"><iframe class='ad' data-aa='2311020' src='//ad.a-ads.com/2311020?size=200x200'></iframe><p class="item-text">AD</p></div>
 		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/11.png?raw=true')" href="/nogh/11"><p class="item-text">No Internet Game</p></a>
 		<a class="item hm" style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/27.jpg?raw=true')" href="/nogh/27"><p class="item-text">Moto X3M Pool Party</p></a>
 		<a class="item"    style="background-image: url('https://github.com/qwkdev/nogh/blob/main/home/images/26.jpg?raw=true')" href="/nogh/26"><p class="item-text">Moto X3M Halloween</p></a>
