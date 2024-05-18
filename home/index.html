@@ -155,7 +155,7 @@
 		<p style="font-size: 1vw; line-height: 8vh; font-weight: 700; text-align: center; margin-bottom: .7vh; width: 100%;" id="edch">No current holiday, Next holiday is: In-service day (May be subject to change), on Thursday 2nd May</p>
 	</div>
 	<script>
-		fetch('https://qwk.pythonanywhere.com/edch')
+		fetch('https://qwk.pythonanywhere.com/edch', {method: 'GET'})
 		.then(response => response.text())
 		.then(text => {
 			document.getElementById('edch').innerText = text;
