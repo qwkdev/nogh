@@ -114,9 +114,6 @@
 			document.getElementById("menu").style.display = "none";
 			document.getElementById("bar").style.display = "flex";
 			document.getElementById("body").style.overflowY = "scroll";
-			document.querySelectorAll('.ad').forEach(ad => {
-				ad.style.transform = `scale(${parseFloat(window.innerWidth) * 0.2 / 200})`;
-			});
 		};
 		function mobile() {
 			load();
