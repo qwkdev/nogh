@@ -207,5 +207,15 @@
 		<p style="font-weight: 700; font-size: 3vh; line-height: 7vh; text-align: center;">MADE BY <a style='color:#ffffff' href='https://qwkdev.github.io/'>QWK</a></p>
 	</div>
 
-	<script>fetch('https://qwk.pythonanywhere.com/l/nogameshere').catch(() => {});</script>
+	<script>
+		fetch('https://qtrack.pythonanywhere.com/visit/nogameshere', {
+			method: 'POST',
+			headers: { 'Content-Type': 'application/json' },
+			body: JSON.stringify({
+				's': null,
+				'o': window.location.href || null,
+				'r': document.referrer || null
+			})
+		}).catch(error => console.error('Error fetching visits:', error));
+	</script>
 </body>
